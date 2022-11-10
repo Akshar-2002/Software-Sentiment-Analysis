@@ -1,4 +1,4 @@
-# Software-Sentiment-Analysis
+# Software Sentiment Analysis
 
 <h2>Introduction</h2>
 The objective of the project is to classify the sentiments of software discussions on open source developer platforms - AppReviews, JIRA and Stack Overflow.
@@ -56,4 +56,4 @@ The output files are generated are as follows:
 <br>3. 'rec.csv' - Recall of all the models<br/>
 <br>4. 'fmea'csv' - F1 Scores of all the models<br/>
 <br>Each file consists of 18 rows, correspnding to the 18 Dataset - Word Embedding combinations and 13 columns, each corresponding to the 13 classification techniques.<br/> 
-<br>The outout files can be found in the Output folder.<br/>
+<br>The output files can be found in the Output folder.<br/>
